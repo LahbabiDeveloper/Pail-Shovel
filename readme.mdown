@@ -1,7 +1,7 @@
 Pail & Shovel
 =============
 
-My CakePHP [Shopify](http://www.shopify.com/?ref=meeech) Project. 
+My CakePHP [Shopify](http://www.shopify.com/?ref=Llahbabdev) Project. 
 
 It's what I base my new Shopify App projects off of.
 
@@ -11,7 +11,6 @@ I'll be adding tools I need when developing. You can install your own copy, or u
 
 It's set up to be development shop friendly.
 
-[Pail & Shovel](http://shovel-and-pail.amihod.com)
 
 Stuff it already has
 --------------------
