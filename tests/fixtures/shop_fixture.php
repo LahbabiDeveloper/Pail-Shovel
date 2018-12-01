@@ -1,5 +1,4 @@
 <?php
-/* Shop Fixture generated on: 2010-07-20 22:07:02 : 1279680242 */
 class ShopFixture extends CakeTestFixture {
 	var $name = 'Shop';
 
