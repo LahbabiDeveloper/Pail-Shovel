@@ -1,11 +1,6 @@
 <?php
-/**
- * Application Controller
- * 
- *
- * @package       cake
- * @subpackage    cake.app
- */
+
+
 class AppController extends Controller {
 
     var $components = array(
