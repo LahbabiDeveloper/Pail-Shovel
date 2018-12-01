@@ -1,12 +1,3 @@
-# Sequel Pro dump
-# Version 2492
-# http://code.google.com/p/sequel-pro
-#
-# Host: 127.0.0.1 (MySQL 5.1.36)
-# Database: shopify_devtools
-# Generation Time: 2010-09-05 18:08:27 -0400
-# ************************************************************
-
 /*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
 /*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
 /*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
