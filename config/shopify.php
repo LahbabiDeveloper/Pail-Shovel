@@ -1,5 +1,5 @@
 <?php
-$config['Shopify']['api_key'] = 'YOUR_API_KEY';
+$config['Shopify']['api_key'] = 'YOUR_API_KEY_Partner_Shopify';
 $config['Shopify']['secret'] = 'YOUR_SECRET_CODE';
 
 //Name that will appear when referencing the app. 
