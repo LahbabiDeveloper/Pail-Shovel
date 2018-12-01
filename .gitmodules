@@ -1,6 +1,8 @@
-[submodule "vendors/shopify_api"]
+              [submodule "vendors/shopify_api"]
 	path = vendors/shopify_api
 	url = http://github.com/meeech/shopify_php_api.git
-[submodule "plugins/debug_kit"]
+	
+	
+               [submodule "plugins/debug_kit"]
 	path = plugins/debug_kit
 	url = http://github.com/cakephp/debug_kit.git
