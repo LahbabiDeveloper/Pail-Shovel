@@ -77,7 +77,7 @@ class DATABASE_CONFIG {
 		'driver' => 'mysql',
 		'persistent' => false,
 		'host' => 'localhost',
-		'login' => 'user',
+		'login' => 'database_user',
 		'password' => 'password',
 		'database' => 'database_name',
 		'prefix' => '',
@@ -87,9 +87,9 @@ class DATABASE_CONFIG {
 		'driver' => 'mysql',
 		'persistent' => false,
 		'host' => 'localhost',
-		'login' => 'user',
+		'login' => 'database_user',
 		'password' => 'password',
-		'database' => 'test_database_name',
+		'database' => '2_database_name',
 		'prefix' => '',
 	);
 }
