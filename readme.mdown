@@ -1,4 +1,4 @@
-Pail & Shovel
+Dimaw Shopify Pail & Shovel
 =============
 
 My CakePHP [Shopify](http://www.shopify.com/?ref=Llahbabdev) Project. 
