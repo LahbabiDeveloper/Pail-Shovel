@@ -4,3 +4,6 @@ CREATE TABLE cake_sessions (
   expires int(11) default NULL,
   PRIMARY KEY  (id)
 );
+
+
+
