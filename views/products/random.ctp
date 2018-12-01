@@ -9,7 +9,7 @@
     </div>
     <div class="center pad-top">
         <?php echo $this->Form->input('Product.inventory-quantity', array('tabindex'=>2,'class'=>'tiny','label'=>false, 'div'=>false)); ?><span class="large">Amount in stock</span>
-        <br><small>Leave blank for random</small>
+        <br><small>Leave blank for randome</small>
     </div>
 
     <hr>
@@ -19,8 +19,4 @@
     </div>
 
     <div class="center pad-top"><button tabindex="9" type="submit" class="awesome xxx-large green">Create!</button></div>
-    
-<?php echo $this->Form->end(); ?>
-
-
-</div>
+    <?php echo $this->Form->end(); ?></div>
