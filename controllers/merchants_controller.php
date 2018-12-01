@@ -214,7 +214,7 @@ class MerchantsController extends AppController {
         $shop = str_replace($suffix, '', $this->data['shop_id']). $suffix;
         $this->redirect(array('controller'=> 'pages', 'action'=>'display', 'home', '?'=>"shop={$shop}"));
     }
-    
+
     /**
      * Remove sessions with info. 
      *
