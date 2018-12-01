@@ -9,7 +9,6 @@ class ShopFixture extends CakeTestFixture {
 		'indexes' => array('PRIMARY' => array('column' => 'id', 'unique' => 1)),
 		'tableParameters' => array('charset' => 'utf8', 'collate' => 'utf8_general_ci', 'engine' => 'InnoDB')
 	);
-
 	var $records = array(
 		array(
 			'id' => '4c465ef2-d498-448d-bb05-21ba67704fc0',
