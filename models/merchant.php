@@ -15,7 +15,6 @@ class Merchant extends AppModel {
         'id' => 'notEmpty',
         'title' => 'notEmpty'
     );
-
     /**
      * How many requests a demo user has left. Example, if you needed it. You set the limit in the shopify config file, 
      * or whereever you want really. 
